@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "extends": ["airbnb-typescript"],
+  "rules": {
+    "react/prop-types": "off",
+    "jsx-a11y/anchor-is-valid": "warn",
+    "import/prefer-default-export": "off"
+  }
+}
