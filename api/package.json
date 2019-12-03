@@ -9,13 +9,13 @@
   "dependencies": {
     "faker": "^4.1.0",
     "koa": "^2.10.0",
-    "ky": "^0.15.0",
+    "ky": "^0.16.1",
     "ky-universal": "^0.3.0"
   },
   "devDependencies": {
     "@types/faker": "^4.1.6",
     "@types/koa": "^2.0.50",
-    "nodemon": "^1.19.3",
+    "nodemon": "^2.0.1",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
   }
